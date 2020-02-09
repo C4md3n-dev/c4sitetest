@@ -8,4 +8,5 @@ function setup() {
 
 function draw() {
   background(220);
+  image(capture, 0, 0, 320, 240);
 }
